@@ -1,0 +1,13 @@
+# Bytecode / Jupyter artefacts
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+venv/
+env/
+
+# OS noise
+.DS_Store
+Thumbs.db
